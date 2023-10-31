@@ -1,16 +1,2 @@
-# image_generator_app
+![Screenshot_20231031_124646](https://github.com/prachi-git99/AI_ImageGenerator_flutter/assets/83897459/d2f1c3a6-8148-48ce-9b76-2083781d777f)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
