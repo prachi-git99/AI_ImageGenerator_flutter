@@ -7,6 +7,7 @@ import 'package:flutter/services.dart';
 import 'package:http/http.dart' as http;
 import 'package:image_generator_app/screens/second_screen.dart';
 import 'package:image_generator_app/utils/dialog.dart';
+import 'package:image_generator_app/consts/strings.dart';
 
 
 Future<dynamic> convertTextToImage(
@@ -26,7 +27,7 @@ Future<dynamic> convertTextToImage(
       'Content-Type': 'application/json',
       'Authorization':
           //add ypur secreat key here
-          'Bearer sk-Hh6LZ4jSRbzU2y0izcTRyYXEsyoq3ro30Oiwkze6Ud1iwcH2',
+          'Bearer ${API_KEY}',
       'Accept': 'image/png',
     },
     body: jsonEncode({
