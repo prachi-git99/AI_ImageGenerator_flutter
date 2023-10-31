@@ -1,4 +1,4 @@
-
+const API_KEY = "";
 const title = "AI Image Generator";
 const subtitle = "(Text to Image)";
 
